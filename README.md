@@ -1,12 +1,15 @@
-# We're the Wire Clippers.
+# Github Config Page
 
-- We're the robotics team of PHS
-- We have [a very cool website](https://wireclippers.org)
+This is used to display a custom `README.md` on our GitHub home page. It doesn't contribute to our website, our website, or anything else like that. Instead, it's used to help keep our appearances up on GitHub. 
 
-We use GitHub to store our code for the robots, store code for embeds and other things on our website, and lots of other things. 
-Check us out on social media!
+## 🔄 Updating
 
-- [Instagram](https://www.instagram.com/phs_wire_clippers)
-- [Twitter / X](https://twitter.com/frc5902)
-- [Facebook](https://www.facebook.com/frc5902)
-- [TikTok](https://tiktok.com/phs_wire_clippers)
+Feel free to make updates to the `/profile/README.md` page as you see fit. This information is public and it helps describe who we are. 
+
+Ideally, all social media accounts should be included - if we make a new one, we put it on the README.
+
+## How to Help
+
+Please don't edit this `README.md`. Instead, update our [/profile/README.md](https://github.com/PHSWireClippers5902/.github/tree/main/profile) with new content.
+
+Thanks for your help!
